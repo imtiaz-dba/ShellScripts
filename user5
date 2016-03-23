@@ -1,0 +1,37 @@
+/home/user5:
+total 28
+drwx------  3 user5 ec2-user 4096 Nov 25 20:17 .
+drwxr-xr-x 12 root  root     4096 Nov 25 22:36 ..
+-rw-r--r--  1 user5 ec2-user   18 May 22  2012 .bash_logout
+-rw-r--r--  1 user5 ec2-user  176 May 22  2012 .bash_profile
+-rw-r--r--  1 user5 ec2-user  124 May 22  2012 .bashrc
+-rw-r--r--  1 user5 ec2-user  121 Jan  5  2012 .kshrc
+drwxr-xr-x  3 user5 ec2-user 4096 Nov 25 20:17 ShellScripts
+
+/home/user5/ShellScripts:
+total 32
+drwxr-xr-x 3 user5 ec2-user 4096 Nov 25 20:17 .
+drwx------ 3 user5 ec2-user 4096 Nov 25 20:17 ..
+drwxr-xr-x 3 user5 root     4096 Nov 25 20:17 abc
+-rw-r--r-- 1 user5 ec2-user  492 Nov 25 20:17 FindDeleteVolumes.sh
+-rwxr-xr-x 1 user5 ec2-user  646 Nov 25 20:17 FindSwapUsed.sh
+-rw-r--r-- 1 user5 ec2-user   50 Nov 25 20:17 Misc.txt
+-rw-r--r-- 1 user5 ec2-user   52 Nov 25 20:17 us-east-1-volumes.txt
+-rw-r--r-- 1 user5 ec2-user   37 Nov 25 20:17 users
+
+/home/user5/ShellScripts/abc:
+total 12
+drwxr-xr-x 3 user5 root     4096 Nov 25 20:17 .
+drwxr-xr-x 3 user5 ec2-user 4096 Nov 25 20:17 ..
+drwxr-xr-x 3 user5 root     4096 Nov 25 20:17 def
+
+/home/user5/ShellScripts/abc/def:
+total 12
+drwxr-xr-x 3 user5 root   4096 Nov 25 20:17 .
+drwxr-xr-x 3 user5 root   4096 Nov 25 20:17 ..
+drwxr-xr-x 2 user5 apache 4096 Nov 25 20:17 ghj
+
+/home/user5/ShellScripts/abc/def/ghj:
+total 8
+drwxr-xr-x 2 user5 apache 4096 Nov 25 20:17 .
+drwxr-xr-x 3 user5 root   4096 Nov 25 20:17 ..

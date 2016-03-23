@@ -1,0 +1,123 @@
+
+A) Return distinct values from a list including duplicates.
+B) Return distinct values and their count.
+
+The list = 1 3 5 3 7 3 1 1 5
+# Response for A
+for i in 135373115
+do
+echo $i
+done
+
+#Response for B using Perl
+
+#!/usr/bin/perl
+
+@Array = (1, 3, 5, 3, 7, 3, 1, 1, 5);
+@Array = grep { ! $seen{ $_ }++ } @Array;
+$ArrayCount=$#Array+1;
+print "Count of the Array: $ArrayCount\n";
+
+foreach (@Array) {
+
+print "$_\n";
+
+}
+0:00 / 40:04
+ 
+play1x2x5x
+Question 2
+Reverse a sentence "bob likes dogs" -> "dogs likes bob"
+#using perl
+#!/usr/bin/perl
+# "bob likes dogs" -> "dogs likes bob"
+@Array = ( "bob", "likes", "dogs");
+@ReverseArray = reverse(@Array);
+print "@ReverseArray \n";
+0:00 / 6:59
+ 
+play1x2x5x
+Question 3
+Swap the values of two variables
+#!/usr/bin/perl
+$a=3; $b=5;
+print "a is now: $a\n";
+print "b is now: $b\n";
+
+#swapping
+($a,$b) = ($b,$a);
+
+print "a is now: $a\n";
+print "b is now: $b\n";
+0:00 / 9:55
+ 
+play1x2x5x
+Question 4
+Find the maximum value in a number list.
+echo Enter 3  numbers
+read x y z
+l=$x
+if [ $y -gt $l ]
+then
+l=$y
+fi
+if [ $z -gt $l ]
+then
+l=$z
+fi
+echo Lagest of $x $y $z is $l
+0:00 / 5:58
+ 
+play1x2x5x
+Question 5
+Print out, in reverse order, every multiple of 3 between 1 and 200
+#!/usr/bin/perl
+
+
+$count = 1;
+
+for($i=0; $i<200; $i++)
+
+{
+
+if ($i%3 == 0)
+{
+$count = ++$count ;
+print "$i -- $count\n";
+push(@Array, $i);
+
+}
+
+}
+@RArray= reverse(@Array);
+print "\n\nThe count is :@RArray\n";
+print "\n\nThe count is :$count\n";
+0:00 / 17:09
+ 
+play1x2x5x
+Question 6
+No coding for this one, please describe why you like Windows, Mac, or Linux best. Just a small paragraph or so.
+Linux is much more stable because of its kernel which is consist of small sub programs to some extent like Mac OS and
+personally i like command line. Linux also provides HA clustering and much more other features.
+0:00 / 2:41
+ 
+play1x2x5x
+Question 7
+Last question. Given a person's birthdate of 12/20/1967, using today's date, calculate how old the person is.
+#!/bin/bash
+TODAY=$(date +"%Y-%m-%d")
+for (( ; ; ))
+do
+    clear
+    read -p "Your birhdate (yyyy-mm-dd) ? " birthdate
+        tmpDays=$( printf '%s' $(( $(date -u -d"$TODAY" +%s) - $(date -u -d"$birthdate" +%s)))  ) 
+    days=$(( $tmpDays / 60 / 60 / 24 ))
+    hours=$(( $tmpDays / 60 / 60 ))
+    mintues=$(( $tmpDays / 60 ))
+    echo "You are $days days $hours hours $mintues mintues old"
+    read -p "Try again (y/N) ? " tryAgain
+    [ "$tryAgain" == "y" -o "$tryAgain" == "Y"  ] && : || break
+done
+0:00 / 2:32
+
+

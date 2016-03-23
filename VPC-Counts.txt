@@ -1,0 +1,2 @@
+TAGS	Name	MainVPC
+TAGS	Name	PrvtPub-NAT

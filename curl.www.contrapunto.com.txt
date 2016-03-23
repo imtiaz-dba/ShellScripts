@@ -1,0 +1,99 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:28:51 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:28:55 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=r3stbn6bgub98g7v9hdn515ui0; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:28:57 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:29:00 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=8p990q05h9t446nnrpmpktc915; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:29:02 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:29:05 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=23s6kmac4k37sk97akua2evnk7; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:29:11 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:29:14 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=jvvd6tg5cv2du08tejldhgsq11; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:29:16 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:29:19 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=29uep4ip78cjdj1g1ium6roas3; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 13 Jul 2014 13:29:21 GMT
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Sun, 13 Jul 2014 13:29:24 GMT
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: 79b129c5e94372d1cc9164bdb649bcba=6va7ro4d9p8hkvo815nkg4o9j0; path=/; HttpOnly
+Set-Cookie: jfbconnect_permissions_granted=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Logged-In: False
+X-Powered-By: PHP/5.5.9-1ubuntu4
+Connection: keep-alive
+
+HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
+Connection: keep-alive
+
+HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
+Connection: keep-alive
+
+HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
+Connection: keep-alive
+
